@@ -1,0 +1,3 @@
+[submodule "zh_CN"]
+	path = zh_CN
+	url = https://github.com/QuardCRT-platform/QuardCRT-doc-zh_CN.git
