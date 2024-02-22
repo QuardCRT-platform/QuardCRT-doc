@@ -4,3 +4,6 @@
 [submodule "zh_HK"]
 	path = zh_HK
 	url = https://github.com/QuardCRT-platform/QuardCRT-doc-zh_HK.git
+[submodule "en"]
+	path = en
+	url = https://github.com/QuardCRT-platform/QuardCRT-doc-en.git
