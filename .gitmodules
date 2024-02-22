@@ -7,3 +7,6 @@
 [submodule "en"]
 	path = en
 	url = https://github.com/QuardCRT-platform/QuardCRT-doc-en.git
+[submodule "ja"]
+	path = ja
+	url = https://github.com/QuardCRT-platform/QuardCRT-doc-ja.git
